@@ -4,7 +4,7 @@ This repository holds the guides, documents, genesis files, and binary files req
 
 ## GitBook Tutorials
 
-You can get started with the ReapChain Mainnet by accessing all of the required materials through our GitBook. Currently you can access this GitBook here.
+You can get started with the ReapChain Mainnet by accessing all of the required materials through our GitBook. Currently you can access this GitBook [here](https://reapchain.gitbook.io/mainnet/).
 
 ## About Us
 
