@@ -1,14 +1,12 @@
-# My Account
+# Accounts
 
 ### Description
 
-On the My Account page, you can view account information, balances, delegated amounts, transaction history, and more.
+On the Accounts page, you can view account information, balances, delegated amounts, transaction history, and more.
 
 You can also request transactions related to transfer and delegation.
 
 ### User Interface
 
-![](<../../../.gitbook/assets/image (49).png>)
-
-
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

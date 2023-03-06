@@ -1,12 +1,14 @@
-# Summary
+# Dashboard
 
 ### Description
 
-The summary page shows the status and information of the reapchain network.
+The dashboard page shows the status and information of the reapchain network. And it also provides a simple wallet function.
 
 ### User Interface
 
-![](<../../../.gitbook/assets/image (7).png>)
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 

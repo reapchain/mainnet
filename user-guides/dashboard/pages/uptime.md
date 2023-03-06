@@ -2,8 +2,8 @@
 
 ### Description
 
-Check the liveness of validators on this page.
+This page provides real-time activity information for each validator.
 
 ### User Interface
 
-![](<../../../.gitbook/assets/image (50).png>)
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

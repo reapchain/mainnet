@@ -9,15 +9,12 @@
 * [Coin Transfer](user-guides/coin-transfer.md)
 * [Dashboard](user-guides/dashboard/README.md)
   * [Pages](user-guides/dashboard/pages/README.md)
-    * [Summary](user-guides/dashboard/pages/summary.md)
+    * [Dashboard](user-guides/dashboard/pages/summary.md)
     * [Blocks](user-guides/dashboard/pages/blocks.md)
-    * [My Account](user-guides/dashboard/pages/my-account.md)
-    * [Staking](user-guides/dashboard/pages/staking.md)
+    * [Accounts](user-guides/dashboard/pages/my-account.md)
+    * [Validators](user-guides/dashboard/pages/staking.md)
     * [Uptime](user-guides/dashboard/pages/uptime.md)
-  * [How To Use](user-guides/dashboard/how-to-use/README.md)
-    * [Connect Wallet](user-guides/dashboard/how-to-use/connect-wallet.md)
-    * [Transfer](user-guides/dashboard/how-to-use/transfer.md)
-    * [Staking](user-guides/dashboard/how-to-use/staking.md)
+    * [State Sync](user-guides/dashboard/pages/state-sync.md)
 
 ## Additional Guides
 

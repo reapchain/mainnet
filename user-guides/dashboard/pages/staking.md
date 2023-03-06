@@ -1,4 +1,4 @@
-# Staking
+# Validators
 
 ### Description
 
@@ -12,11 +12,11 @@ If you own a validator account, you can also request withdrawals for rewards and
 
 #### Active Validators
 
-![](<../../../.gitbook/assets/image (29).png>)
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### Validator Info
 
-![](<../../../.gitbook/assets/image (8).png>)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
