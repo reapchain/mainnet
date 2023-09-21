@@ -12,7 +12,9 @@
     * [Dashboard](user-guides/dashboard/pages/summary.md)
     * [Blocks](user-guides/dashboard/pages/blocks.md)
     * [Accounts](user-guides/dashboard/pages/my-account.md)
-    * [Validators](user-guides/dashboard/pages/staking.md)
+    * [Staking](user-guides/dashboard/pages/staking.md)
+    * [Parameters](user-guides/dashboard/pages/parameters.md)
+    * [Governance](user-guides/dashboard/pages/governance.md)
     * [Uptime](user-guides/dashboard/pages/uptime.md)
     * [State Sync](user-guides/dashboard/pages/state-sync.md)
 

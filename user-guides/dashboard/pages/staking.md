@@ -1,6 +1,6 @@
-# Validators
+# Staking
 
-### Description
+### Description <a href="#description" id="description"></a>
 
 This page provides a list of validators and their details. Activated and inactive validators are displayed separately.
 
@@ -8,15 +8,15 @@ If you have enough Reap, you can request delegation to the Standing Validator or
 
 If you own a validator account, you can also request withdrawals for rewards and commissions.
 
-### User Interface
+### User Interface <a href="#user-interface" id="user-interface"></a>
 
-#### Active Validators
+**Validators**
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### Validator Info
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 

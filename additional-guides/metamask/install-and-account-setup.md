@@ -29,7 +29,7 @@ Next, you can add the Reapchain Network to your Metamask as follows:
 1. After launching Metamask, click the dropdown button to select a network.\
    ![](<../../.gitbook/assets/image (21).png>)
 2. Click the "Add Network" Button\
-   ![](<../../.gitbook/assets/image (15).png>)
+   ![](<../../.gitbook/assets/image (15) (1).png>)
 3.  Fill out the input form on the Add Network page as shown below.\
     \- **Network Name** : reapchain (what you want)\
     \- **New RPC URL** : https://eth.reapchain.org\
@@ -40,4 +40,4 @@ Next, you can add the Reapchain Network to your Metamask as follows:
 
 
     <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-4. After clicking the save button, check that it is connected to the Reapchain network.![](<../../.gitbook/assets/image (5).png>)
+4. After clicking the save button, check that it is connected to the Reapchain network.![](<../../.gitbook/assets/image (5) (2).png>)
