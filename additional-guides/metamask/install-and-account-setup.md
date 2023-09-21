@@ -22,22 +22,46 @@ Install the Metamask wallet as follows:
    Alternatively, refer to this [page](../../user-guides/account.md) to create an account using the command line interface.
 2. If you have created an account with command line interface, access the Import Existing account page in Metamask and register.
 
-### 3. Connect with the Reapchain Network
+
+
+### 3. Connect with the Reapchain Network(With Dashboard)
+
+Please refer to [Connect With Metamask](../../user-guides/dashboard/how-to-use/connect-with-wallet.md#connect-with-metamask) section on [Connect With Wallet](../../user-guides/dashboard/how-to-use/connect-with-wallet.md) page
+
+
+
+### 4. Connect with the Reapchain Network(Manualy)
 
 Next, you can add the Reapchain Network to your Metamask as follows:
 
-1. After launching Metamask, click the dropdown button to select a network.\
-   ![](<../../.gitbook/assets/image (21) (1).png>)
+1. After running Metamask, click the dropdown button to select a network.\
+   ![](<../../.gitbook/assets/image (78).png>)
 2. Click the "Add Network" Button\
-   ![](<../../.gitbook/assets/image (15) (1) (1).png>)
-3.  Fill out the input form on the Add Network page as shown below.\
-    \- **Network Name** : reapchain (what you want)\
+   \
+   ![](<../../.gitbook/assets/image (77).png>)\
+
+3.  Click "Add a network manually" link at the bottom.\
+
+
+    <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+4.  Fill out the input form on the Add Network page as shown below.\
+    \- **Network Name** : Reapchain Mainnet(what you want)\
     \- **New RPC URL** : https://eth.reapchain.org\
-    \- **Chain ID** : 2022\
+    \- **Chain ID** : 221230\
     \- **Current Symbol** : REAP\
-    \- **Block Explorer URL** : https://dashboard.reapchain.org/account
+
+
+    <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+5.  Check Confirm the selected network.\
+
+
+    <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
-4. After clicking the save button, check that it is connected to the Reapchain network.![](<../../.gitbook/assets/image (5) (2).png>)
+
+
+
+
+
+
