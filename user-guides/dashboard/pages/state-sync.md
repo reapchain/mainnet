@@ -8,4 +8,4 @@ If you follow the steps outlined here, you can quickly configure Reapchain netwo
 
 ### User Interface
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

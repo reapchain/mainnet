@@ -33,4 +33,4 @@ Once added the Reapchain Network, you can then select the Reapchain Network and 
 
 ![](<../../.gitbook/assets/image (37).png>)
 
-![](<../../.gitbook/assets/image (14) (1).png>)
+![](<../../.gitbook/assets/image (14) (1) (1).png>)

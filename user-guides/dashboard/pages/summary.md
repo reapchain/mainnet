@@ -6,7 +6,7 @@ The dashboard page shows the status and information of the reapchain network. An
 
 ### User Interface
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 
 
