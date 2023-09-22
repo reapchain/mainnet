@@ -21,16 +21,45 @@ Install the Keplr wallet as follows:
    Alternatively, refer to this [page](../../user-guides/account.md) to create an account using the command line interface.
 2. If you have created an account with command line interface, click the "Import Existing account" button in Keplr and register.
 
-### 3. Connect with the Reapchain Network
+### 3. Add Reapchain network to Keplr
 
-Next, you can add the Reapchain Network to your Keplr Extension by visiting the [Reapchain Dashboard](../../user-guides/dashboard/)
+1.  Click the "Connect Wallet" button on the top right. And Click the "With Keplr" item.
 
-Once added the Reapchain Network, you can then select the Reapchain Network and check your balance
+    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2. Approve the "Add Reapchain Testnet to Keplr"\
+   ![](<../../.gitbook/assets/image (4) (1).png>)
+
+### 4. Add REAP to the coin list to make it available
+
+If REAP does not appear as an available balance, register REAP as follows.
+
+1. When you scroll down on the main page, you will see something like below.\
+   Here, click "1 new token(s) found"\
+   \
+   ![](<../../.gitbook/assets/image (66).png>)\
+
+2. Select Reapchain Mainnet and then click the "Add Chains" button.\
+   \
+   ![](<../../.gitbook/assets/image (64).png>)\
+
+3. REAP on Reapchain Mainnet will then be listed in the available amount.\
+   \
+   ![](<../../.gitbook/assets/image (67).png>)\
+
+
+#### Add using Manage Chain Visibility menu
+
+1\. Click the menu in the upper left corner to open the side menu.\
+\
+![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3).png>)\
+
+
+2. select the Reapchain Mainnet item and Save.\
+   \
+   <img src="../../.gitbook/assets/image (7).png" alt="" data-size="original">\
 
 
 
-![](<../../.gitbook/assets/image (35).png>)
 
-![](<../../.gitbook/assets/image (37).png>)
 
-![](<../../.gitbook/assets/image (14) (1) (1).png>)
+
