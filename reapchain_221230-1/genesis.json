@@ -1,0 +1,2845 @@
+{
+  "app_hash": "",
+  "app_state": {
+      "auth": {
+          "accounts": [
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "1",
+                      "address": "reap1zytmyzs86vxrmrzpkadt7maqxkjd3ueckzavc6",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "ArJkfS1EWBhTn5/5SdL5egbPpHRYqy2zwTs1llN9snU9"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "3",
+                      "address": "reap1yz5psrp7pekpukkzq6ywahuzky5d2c74328z8c",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A762Mwn+L/4GfX+Bh0Z9x8ja2cSRY0q2df6efDWSdM0v"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "23",
+                      "address": "reap1yl6hdjhmkf37639730gffanpzndzdpmhl4wvkf",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "transfer",
+                  "permissions": [
+                      "minter",
+                      "burner"
+                  ]
+              }, 
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "10",
+                      "address": "reap1gypevvsjyvrn3z9h0n39l9qhpdcu00nezsyd9h",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A6EAX6yfw+8EUnMwVlDBZ6taexUJr28uVtXjLO+aAx0L"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "9",
+                      "address": "reap1gsez6p98e77z2kkg2smlu2px5735vwadtfd5kt",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A8sUJqwF7oQxXdNaqtNDGdoGV1o1IwHscLHa8S+nQGLF"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "13",
+                      "address": "reap1gu5lm3kj9nten6lmw3xjfdvd309el2xt68wc6j",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A8MCfYKyLGPPJaMO/8/CcPYjymymWlrKTsMneWUmz9Pi"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "25",
+                      "address": "reap1glht96kr2rseywuvhhay894qw7ekuc4qmwtlgv",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "erc20",
+                  "permissions": [
+                      "minter",
+                      "burner"
+                  ]
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "12",
+                      "address": "reap1ftfyf9tckar7t4mfhjh452s6putyrj6ul4j70l",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A5UMaSsTJF4DAizF5NyD/o0AKiSm9++hzifSsq+Kmbpd"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "5",
+                      "address": "reap1f782nrh8zfhz40ymn9z4pz4qu4x6mxw7uktqdq",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A0wJfy9RMN8lM2G/zbX7FUT/8bCIEl+mGr7eckrBwQ6c"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              }, 
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "20",
+                      "address": "reap1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3y332ca",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "bonded_tokens_pool",
+                  "permissions": [
+                      "burner",
+                      "staking"
+                  ]
+              },
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "21",
+                      "address": "reap1tygms3xhhs3yv487phx3dw4a95jn7t7ls3dmwf",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "not_bonded_tokens_pool",
+                  "permissions": [
+                      "burner",
+                      "staking"
+                  ]
+              },
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "27",
+                      "address": "reap1vqu8rska6swzdmnhf90zuv0xmelej4lquca34z",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "evm",
+                  "permissions": [
+                      "minter",
+                      "burner"
+                  ]
+              }, 
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "24",
+                      "address": "reap1d4e35hk3gk4k6t5gh02dcm923z8ck86qhr0z29",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "inflation",
+                  "permissions": [
+                      "minter"
+                  ]
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "7",
+                      "address": "reap1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e62yczju",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A9+3MyjTOPVo1/ZKgsDEzekqfpxvt/7E1UAZYIwlRxSp"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              }, 
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "2",
+                      "address": "reap1wtxtlvt6u5cxryp558lrgwre28lspwa4h9j67y",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A8WjcUZzi4/ZlWFGWFjnRasNabPWdhWOr/bL+BHcfu3K"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "11",
+                      "address": "reap1w4h2ww9agw8kwa3k9a0quwalavtm5kyzz949g8",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "AlhHLzeW7ga0/38+dDkdWc4OiTxUqeYLLsNr/e6XAlpJ"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "8",
+                      "address": "reap1whugvc9ngap4u658sp5chlexn0gm3z5xlqc8sd",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A4jrrrxPSGF4yK6j02NRdzPnLJIvNzPDkjlM1VYsWHx7"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              }, 
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "22",
+                      "address": "reap10d07y265gmmuvt4z0w9aw880jnsr700jtgtqhe",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "gov",
+                  "permissions": [
+                      "burner"
+                  ]
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "14",
+                      "address": "reap1052hvfzm93lmnxtk3g0e8tmj5lma23903dlwdj",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "AjyyJlw+3xHVoEJbqevUhe4S+AUyvQTNLpNeyNA9NlKX"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              }, 
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "18",
+                      "address": "reap1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8k4ueg4",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "distribution",
+                  "permissions": []
+              },
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "19",
+                      "address": "reap15cvq3ljql6utxseh0zau9m8ve2j8erz8ksa9dq",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "claims",
+                  "permissions": []
+              },
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "26",
+                      "address": "reap1krxwf5e308jmclyhfd9u92kp369l083wq3hawz",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "incentives",
+                  "permissions": [
+                      "minter",
+                      "burner"
+                  ]
+              },  
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "16",
+                      "address": "reap1kd73sseljuj4pejj2qsugj4p6t4uz9gpn8u7u8",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "Ag9/5BerUKYEuRdcKfdEDMk/ezx5Nv9+i8QhVyIKIuLQ"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              }, 
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "4",
+                      "address": "reap1eqmazhwyzgpvcaute2nk2sarkx4hpsk9cch2td",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "AqP4afEKo6pSYz26hc7+ipBXtu9+OIej5n+HZhO0Ocsl"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "6",
+                      "address": "reap1esasm0wyj9lkchedke42ngqutek6auyju0u9tv",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A4ctIxfilFSMxIQDQRxK1S4WDgeUjWsMgBQEVKdIQuWh"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },  
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "15",
+                      "address": "reap16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6p20mfd",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "A1nOIj95pFKikjm3o8i1Z84xNHU9Ao0yQrwLwPSqNYD/"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              }, 
+              {
+                  "@type": "/ethermint.types.v1.EthAccount",
+                  "base_account": {
+                      "account_number": "0",
+                      "address": "reap1a5gqxvl3639kzhqgtzs8af72k4e3g7h82ur54l",
+                      "pub_key": {
+                          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+                          "key": "Aqdr2LRsBrk3JC00ivb/LlVm8a7YCFmHnz5KfUj7T0TF"
+                      },
+                      "sequence": "0"
+                  },
+                  "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
+              },  
+              {
+                  "@type": "/cosmos.auth.v1beta1.ModuleAccount",
+                  "base_account": {
+                      "account_number": "17",
+                      "address": "reap17xpfvakm2amg962yls6f84z3kell8c5lpnm92h",
+                      "pub_key": null,
+                      "sequence": "0"
+                  },
+                  "name": "fee_collector",
+                  "permissions": []
+              }
+          ],
+          "params": {
+              "max_memo_characters": "256",
+              "sig_verify_cost_ed25519": "590",
+              "sig_verify_cost_secp256k1": "1000",
+              "tx_sig_limit": "7",
+              "tx_size_cost_per_byte": "10"
+          }
+      },
+      "authz": {
+          "authorization": []
+      },
+      "bank": {
+          "balances": [
+              {
+                  "address": "reap1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3y332ca",
+                  "coins": [
+                      {
+                          "amount": "616200000000000000000000000",
+                          "denom": "areap"
+                      }
+                  ]
+              }, 
+              {
+                  "address": "reap1kd73sseljuj4pejj2qsugj4p6t4uz9gpn8u7u8",
+                  "coins": [
+                      {
+                          "amount": "200000000000000000000000",
+                          "denom": "areap"
+                      }
+                  ]
+              }, 
+              {
+                  "address": "reap1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8k4ueg4",
+                  "coins": [
+                      {
+                          "amount": "200000000000000000000000000",
+                          "denom": "areap"
+                      }
+                  ]
+              } 
+          ],
+          "denom_metadata": [],
+          "params": {
+              "default_send_enabled": true,
+              "send_enabled": []
+          },
+          "supply": []
+      },
+      "capability": {
+          "index": "2",
+          "owners": [
+              {
+                  "index": "1",
+                  "index_owners": {
+                      "owners": [
+                          {
+                              "module": "ibc",
+                              "name": "ports/transfer"
+                          },
+                          {
+                              "module": "transfer",
+                              "name": "ports/transfer"
+                          }
+                      ]
+                  }
+              }
+          ]
+      },
+      "claims": {
+          "claims_records": [],
+          "params": {
+              "airdrop_start_time": "2022-12-30T00:00:00Z",
+              "authorized_channels": [
+                  "channel-0",
+                  "channel-3"
+              ],
+              "claims_denom": "areap",
+              "duration_of_decay": "5259600s",
+              "duration_until_decay": "2629800s",
+              "enable_claims": false,
+              "evm_channels": [
+                  "channel-2"
+              ]
+          }
+      },
+      "crisis": {
+          "constant_fee": {
+              "amount": "10000000000000000000",
+              "denom": "areap"
+          }
+      },
+      "distribution": {
+          "delegator_starting_infos": [
+              {
+                  "delegator_address": "reap1f782nrh8zfhz40ymn9z4pz4qu4x6mxw7uktqdq",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v"
+              },
+              {
+                  "delegator_address": "reap1gu5lm3kj9nten6lmw3xjfdvd309el2xt68wc6j",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7"
+              },
+              {
+                  "delegator_address": "reap16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6p20mfd",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "100000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p"
+              },
+              {
+                  "delegator_address": "reap1a5gqxvl3639kzhqgtzs8af72k4e3g7h82ur54l",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn"
+              },
+              {
+                  "delegator_address": "reap1ftfyf9tckar7t4mfhjh452s6putyrj6ul4j70l",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn"
+              },
+              {
+                  "delegator_address": "reap1gypevvsjyvrn3z9h0n39l9qhpdcu00nezsyd9h",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam"
+              },
+              {
+                  "delegator_address": "reap1zytmyzs86vxrmrzpkadt7maqxkjd3ueckzavc6",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk"
+              },
+              {
+                  "delegator_address": "reap1eqmazhwyzgpvcaute2nk2sarkx4hpsk9cch2td",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp"
+              },
+              {
+                  "delegator_address": "reap1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e62yczju",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s"
+              },
+              {
+                  "delegator_address": "reap1whugvc9ngap4u658sp5chlexn0gm3z5xlqc8sd",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp"
+              },
+              {
+                  "delegator_address": "reap1yz5psrp7pekpukkzq6ywahuzky5d2c74328z8c",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5"
+              },
+              {
+                  "delegator_address": "reap1esasm0wyj9lkchedke42ngqutek6auyju0u9tv",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq"
+              },
+              {
+                  "delegator_address": "reap1wtxtlvt6u5cxryp558lrgwre28lspwa4h9j67y",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg"
+              },
+              {
+                  "delegator_address": "reap1052hvfzm93lmnxtk3g0e8tmj5lma23903dlwdj",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "100000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947"
+              },
+              {
+                  "delegator_address": "reap1gsez6p98e77z2kkg2smlu2px5735vwadtfd5kt",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8"
+              },
+              {
+                  "delegator_address": "reap1w4h2ww9agw8kwa3k9a0quwalavtm5kyzz949g8",
+                  "starting_info": {
+                      "height": "0",
+                      "previous_period": "1",
+                      "stake": "44000000000000000000000000.000000000000000000"
+                  },
+                  "validator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst"
+              }
+          ],
+          "delegator_withdraw_infos": [],
+          "fee_pool": {
+              "community_pool": [
+                  {
+                      "amount": "200000000000000000000000000",
+                      "denom": "areap"
+                  }
+              ]
+          },
+          "outstanding_rewards": [
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8"
+              },
+              {
+                  "outstanding_rewards": [],
+                  "validator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst"
+              }
+          ],
+          "params": {
+              "base_proposer_reward": "0.010000000000000000",
+              "bonus_proposer_reward": "0.040000000000000000",
+              "community_tax": "0.000000000000000000",
+              "withdraw_addr_enabled": true
+          },
+          "previous_proposer": "reapvalcons1cnqyj9ucgf08csrdtahclalsjm4ymhzf2fhue3",
+          "validator_accumulated_commissions": [
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8"
+              },
+              {
+                  "accumulated": {
+                      "commission": []
+                  },
+                  "validator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst"
+              }
+          ],
+          "validator_current_rewards": [
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8"
+              },
+              {
+                  "rewards": {
+                      "period": "2",
+                      "rewards": []
+                  },
+                  "validator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst"
+              }
+          ],
+          "validator_historical_rewards": [
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8"
+              },
+              {
+                  "period": "1",
+                  "rewards": {
+                      "cumulative_reward_ratio": [],
+                      "reference_count": 2
+                  },
+                  "validator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst"
+              }
+          ],
+          "validator_slash_events": []
+      },
+      "epochs": {
+          "epochs": [
+            {
+              "current_epoch": "1",
+              "current_epoch_start_height": "1",
+              "current_epoch_start_time": "2023-09-20T01:00:00Z",
+              "duration": "14400s",
+              "epoch_counting_started": true,
+              "identifier": "podc",
+              "start_time": "2023-09-20T01:00:00Z"
+            },
+            {
+              "current_epoch": "1",
+              "current_epoch_start_height": "1",
+              "current_epoch_start_time": "2023-09-20T01:00:00Z",
+              "duration": "86400s",
+              "epoch_counting_started": true,
+              "identifier": "day",
+              "start_time": "2023-09-20T01:00:00Z"
+            },
+            {
+              "current_epoch": "1",
+              "current_epoch_start_height": "1",
+              "current_epoch_start_time": "2023-09-20T01:00:00Z",
+              "duration": "604800s",
+              "epoch_counting_started": true,
+              "identifier": "week",
+              "start_time": "2023-09-20T01:00:00Z"
+            }
+          ]
+        }, 
+      "erc20": {
+          "params": {
+              "enable_erc20": true,
+              "enable_evm_hook": true
+          },
+          "token_pairs": []
+      },
+      "evidence": {
+          "evidence": []
+      },
+      "evm": {
+          "accounts": [],
+          "params": {
+              "allow_unprotected_txs": false,
+              "chain_config": {
+                  "arrow_glacier_block": "0",
+                  "berlin_block": "0",
+                  "byzantium_block": "0",
+                  "constantinople_block": "0",
+                  "dao_fork_block": "0",
+                  "dao_fork_support": true,
+                  "eip150_block": "0",
+                  "eip150_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+                  "eip155_block": "0",
+                  "eip158_block": "0",
+                  "gray_glacier_block": "0",
+                  "homestead_block": "0",
+                  "istanbul_block": "0",
+                  "london_block": "0",
+                  "merge_netsplit_block": "0",
+                  "muir_glacier_block": "0",
+                  "petersburg_block": "0"
+              },
+              "enable_call": true,
+              "enable_create": true,
+              "evm_denom": "areap",
+              "extra_eips": []
+          }
+      },
+      "feegrant": {
+          "allowances": []
+      },
+      "feemarket": {
+          "block_gas": "0",
+          "params": {
+              "base_fee": "669921876",
+              "base_fee_change_denominator": 8,
+              "elasticity_multiplier": 2,
+              "enable_height": "0",
+              "min_gas_multiplier": "0.500000000000000000",
+              "min_gas_price": "0.000000000000000000",
+              "no_base_fee": false
+          }
+      },
+      "feesplit": {
+          "fee_splits": [],
+          "params": {
+              "addr_derivation_cost_create": "50",
+              "developer_shares": "0.500000000000000000",
+              "enable_fee_split": false
+          }
+      },
+      "genutil": {
+          "gen_txs": []
+      },
+      "gov": {
+          "deposit_params": {
+              "max_deposit_period": "604800s",
+              "min_deposit": [
+                  {
+                      "amount": "100000000000000000000000",
+                      "denom": "areap"
+                  }
+              ]
+          },
+          "deposits": [],
+          "proposals": [],
+          "starting_proposal_id": "1",
+          "tally_params": {
+              "quorum": "0.334000000000000000",
+              "threshold": "0.667000000000000000",
+              "veto_threshold": "0.334000000000000000"
+          },
+          "votes": [],
+          "voting_params": {
+              "voting_period": "604800s"
+          }
+      },
+      "ibc": {
+          "channel_genesis": {
+              "ack_sequences": [],
+              "acknowledgements": [],
+              "channels": [],
+              "commitments": [],
+              "next_channel_sequence": "0",
+              "receipts": [],
+              "recv_sequences": [],
+              "send_sequences": []
+          },
+          "client_genesis": {
+              "clients": [],
+              "clients_consensus": [],
+              "clients_metadata": [],
+              "create_localhost": false,
+              "next_client_sequence": "0",
+              "params": {
+                  "allowed_clients": [
+                      "06-solomachine",
+                      "07-tendermint"
+                  ]
+              }
+          },
+          "connection_genesis": {
+              "client_connection_paths": [],
+              "connections": [],
+              "next_connection_sequence": "0",
+              "params": {
+                  "max_expected_time_per_block": "30000000000"
+              }
+          }
+      },
+      "incentives": {
+          "gas_meters": [],
+          "incentives": [],
+          "params": {
+              "allocation_limit": "0.050000000000000000",
+              "enable_incentives": false,
+              "incentives_epoch_identifier": "week",
+              "reward_scaler": "1.200000000000000000"
+          }
+      },
+      "inflation": {
+          "current_inflation_amount": "0",
+          "epoch_identifier": "podc",
+          "epochs_per_period": "2190",
+          "max_inflation_amount": "397000000000000000000000000",
+          "params": {
+              "enable_inflation": true,
+              "exponential_calculation": {
+                  "a": "39700000.000000000000000000",
+                  "bonding_target": "0.660000000000000000",
+                  "c": "0.000000000000000000",
+                  "max_variance": "0.000000000000000000",
+                  "r": "0.000000000000000000"
+              },
+              "inflation_distribution": {
+                  "community_pool": "0.000000000000000000",
+                  "staking_rewards": "1.000000000000000000",
+                  "usage_incentives": "0.000000000000000000"
+              },
+              "mint_denom": "areap"
+          },
+          "period": "0",
+          "skipped_epochs": "0"
+      },
+      "params": null,
+      "permissions": {
+          "params": {
+              "gov_min_initial_deposit_enabled": true,
+              "gov_min_initial_deposit_percentage": "0.500000000000000000",
+              "podc_whitelist_enabled": true
+          }
+      },
+      "recovery": {
+          "params": {
+              "enable_recovery": true,
+              "packet_timeout_duration": "14400s"
+          }
+      },
+      "slashing": {
+          "missed_blocks": [
+              {
+                  "address": "reapvalcons1pc7xsrm6et8x8wuztwe5hzymnlka8ac746rmek",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1yacyvknz4982w3t2lvpxrhpga3a5lj0fgys7y6",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1xzkdwny3xrc7cpjjx0j9dslmk6ghr8x69stlsg",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1gprezk42amhxx37ccgh76m2ty2kdsuvwjzeajy",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1f7x5mze45azhhch9zn52a0nkegr2ses8rsxm4g",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1wmetfg04laa3y70f8fwmlc9g7sukzglhqjppws",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1026v6yuyz3lxclm8d0hfzkcl2t5armu0hs0n5v",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons13t7s8yrwrlrlspyfn9xwfsu2kyhlnnsgr9jhzx",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1neeqe0twfws76mj3gna8yq59na2hj82qhqqr0m",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1hf8s6zu8pycjchswk6ue75cz77m2xyuu03aj9r",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1cnqyj9ucgf08csrdtahclalsjm4ymhzf2fhue3",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1en80uwcagc62p8zswud7wfww0g7yw42xlu23ra",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons16ehr690n8tz0xm2spuxkxgp9d3lnuj5g0pt44a",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1me3pv5dsnp2elqeu95yrh6vtmd9k37943zcdvc",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1u64mmjrl7qpqf9fpy692zhus3ru2f04cyr80wa",
+                  "missed_blocks": []
+              },
+              {
+                  "address": "reapvalcons1ayufz7j2vhhj3c9cmrcksxga4klkxrvcvxn7g8",
+                  "missed_blocks": []
+              }
+          ],
+          "params": {
+              "downtime_jail_duration": "1800s",
+              "min_signed_per_window": "0.500000000000000000",
+              "signed_blocks_window": "90000",
+              "slash_fraction_double_sign": "0.050000000000000000",
+              "slash_fraction_downtime": "0.010000000000000000"
+          },
+          "signing_infos": [
+              {
+                  "address": "reapvalcons1pc7xsrm6et8x8wuztwe5hzymnlka8ac746rmek",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1pc7xsrm6et8x8wuztwe5hzymnlka8ac746rmek",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1yacyvknz4982w3t2lvpxrhpga3a5lj0fgys7y6",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1yacyvknz4982w3t2lvpxrhpga3a5lj0fgys7y6",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1xzkdwny3xrc7cpjjx0j9dslmk6ghr8x69stlsg",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1xzkdwny3xrc7cpjjx0j9dslmk6ghr8x69stlsg",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "1",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1gprezk42amhxx37ccgh76m2ty2kdsuvwjzeajy",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1gprezk42amhxx37ccgh76m2ty2kdsuvwjzeajy",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1f7x5mze45azhhch9zn52a0nkegr2ses8rsxm4g",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1f7x5mze45azhhch9zn52a0nkegr2ses8rsxm4g",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1wmetfg04laa3y70f8fwmlc9g7sukzglhqjppws",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1wmetfg04laa3y70f8fwmlc9g7sukzglhqjppws",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1026v6yuyz3lxclm8d0hfzkcl2t5armu0hs0n5v",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1026v6yuyz3lxclm8d0hfzkcl2t5armu0hs0n5v",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons13t7s8yrwrlrlspyfn9xwfsu2kyhlnnsgr9jhzx",
+                  "validator_signing_info": {
+                      "address": "reapvalcons13t7s8yrwrlrlspyfn9xwfsu2kyhlnnsgr9jhzx",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1neeqe0twfws76mj3gna8yq59na2hj82qhqqr0m",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1neeqe0twfws76mj3gna8yq59na2hj82qhqqr0m",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1hf8s6zu8pycjchswk6ue75cz77m2xyuu03aj9r",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1hf8s6zu8pycjchswk6ue75cz77m2xyuu03aj9r",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1cnqyj9ucgf08csrdtahclalsjm4ymhzf2fhue3",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1cnqyj9ucgf08csrdtahclalsjm4ymhzf2fhue3",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1en80uwcagc62p8zswud7wfww0g7yw42xlu23ra",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1en80uwcagc62p8zswud7wfww0g7yw42xlu23ra",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons16ehr690n8tz0xm2spuxkxgp9d3lnuj5g0pt44a",
+                  "validator_signing_info": {
+                      "address": "reapvalcons16ehr690n8tz0xm2spuxkxgp9d3lnuj5g0pt44a",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1me3pv5dsnp2elqeu95yrh6vtmd9k37943zcdvc",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1me3pv5dsnp2elqeu95yrh6vtmd9k37943zcdvc",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1u64mmjrl7qpqf9fpy692zhus3ru2f04cyr80wa",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1u64mmjrl7qpqf9fpy692zhus3ru2f04cyr80wa",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              },
+              {
+                  "address": "reapvalcons1ayufz7j2vhhj3c9cmrcksxga4klkxrvcvxn7g8",
+                  "validator_signing_info": {
+                      "address": "reapvalcons1ayufz7j2vhhj3c9cmrcksxga4klkxrvcvxn7g8",
+                      "index_offset": "2",
+                      "jailed_until": "1970-01-01T00:00:00Z",
+                      "missed_blocks_counter": "0",
+                      "start_height": "0",
+                      "tombstoned": false
+                  }
+              }
+          ]
+      },
+      "staking": {
+          "delegations": [
+              {
+                  "delegator_address": "reap1f782nrh8zfhz40ymn9z4pz4qu4x6mxw7uktqdq",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v"
+              },
+              {
+                  "delegator_address": "reap1gu5lm3kj9nten6lmw3xjfdvd309el2xt68wc6j",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7"
+              },
+              {
+                  "delegator_address": "reap16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6p20mfd",
+                  "shares": "100000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p"
+              },
+              {
+                  "delegator_address": "reap1a5gqxvl3639kzhqgtzs8af72k4e3g7h82ur54l",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn"
+              },
+              {
+                  "delegator_address": "reap1ftfyf9tckar7t4mfhjh452s6putyrj6ul4j70l",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn"
+              },
+              {
+                  "delegator_address": "reap1gypevvsjyvrn3z9h0n39l9qhpdcu00nezsyd9h",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam"
+              },
+              {
+                  "delegator_address": "reap1zytmyzs86vxrmrzpkadt7maqxkjd3ueckzavc6",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk"
+              },
+              {
+                  "delegator_address": "reap1eqmazhwyzgpvcaute2nk2sarkx4hpsk9cch2td",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp"
+              },
+              {
+                  "delegator_address": "reap1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e62yczju",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s"
+              },
+              {
+                  "delegator_address": "reap1whugvc9ngap4u658sp5chlexn0gm3z5xlqc8sd",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp"
+              },
+              {
+                  "delegator_address": "reap1yz5psrp7pekpukkzq6ywahuzky5d2c74328z8c",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5"
+              },
+              {
+                  "delegator_address": "reap1esasm0wyj9lkchedke42ngqutek6auyju0u9tv",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq"
+              },
+              {
+                  "delegator_address": "reap1wtxtlvt6u5cxryp558lrgwre28lspwa4h9j67y",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg"
+              },
+              {
+                  "delegator_address": "reap1052hvfzm93lmnxtk3g0e8tmj5lma23903dlwdj",
+                  "shares": "100000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947"
+              },
+              {
+                  "delegator_address": "reap1gsez6p98e77z2kkg2smlu2px5735vwadtfd5kt",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8"
+              },
+              {
+                  "delegator_address": "reap1w4h2ww9agw8kwa3k9a0quwalavtm5kyzz949g8",
+                  "shares": "44000000000000000000000000.000000000000000000",
+                  "validator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst"
+              }
+          ],
+          "exported": true,
+          "last_total_power": "616200000",
+          "last_validator_powers": [
+              {
+                  "address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p",
+                  "power": "100000"
+              },
+              {
+                  "address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947",
+                  "power": "100000"
+              },
+              {
+                  "address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8",
+                  "power": "44000000"
+              },
+              {
+                  "address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst",
+                  "power": "44000000"
+              }
+          ],
+          "params": {
+              "bond_denom": "areap",
+              "historical_entries": 10000,
+              "max_entries": 7,
+              "max_standing_members": 14,
+              "max_validators": 29,
+              "unbonding_time": "1814400s"
+          },
+          "redelegations": [],
+          "unbonding_delegations": [],
+          "validators": [
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "KFU/tVUFNpBqiz9Sfo46PNnQpVC+R5pq/uSiNxONJxI="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #6",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Jade",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1f782nrh8zfhz40ymn9z4pz4qu4x6mxw77rpt4v",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #14",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Agate",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1gu5lm3kj9nten6lmw3xjfdvd309el2xtcjynz7",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "h7v+7S999KjLpnONBuVEHUF8rl2aeF1/QuIVSstnmQI="
+                  },
+                  "delegator_shares": "100000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Steering Validator for the Reapchain Mainnet - #2",
+                      "identity": "38B48ABC65F87B3A",
+                      "moniker": "Persimmon",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "1000000000000000000000000",
+                  "operator_address": "reapvaloper16e6uhnpqfp9fsd5h048qq2sj8uyz9mr6rl9s3p",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "100000000000000000000000",
+                  "type": "steering",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "OpgxaUH4lTjJN0ruLJdMhqbkonB6tDSwXdBJgJ7f7LQ="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #1",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Tanzanite",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1a5gqxvl3639kzhqgtzs8af72k4e3g7h8gffldn",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "ypq5rzroOaMdck3zMow+gtPXosMSXX58d0kG6Rj4fPU="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #13",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Turquois",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1ftfyf9tckar7t4mfhjh452s6putyrj6uaqc4hn",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "oAU3h+bh4n35kbluyZbjqWEqHcnU2cr49aZRDWUj8XE="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #11",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Aquamarine",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1gypevvsjyvrn3z9h0n39l9qhpdcu00neq9wxam",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "89aPWP/ALsqbCKR+T764uaxBk5D3UPp/7+dgv8DUfK4="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #2",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Opal",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1zytmyzs86vxrmrzpkadt7maqxkjd3uec5hh8qk",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "bOs9xnk92O9/hENXSXwnqMonvh2shB2hAa5IT7R8ccs="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #5",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Diamond",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1eqmazhwyzgpvcaute2nk2sarkx4hpsk96dapnp",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "YjeS4MZv1JO+eaRYYGj4Drx3Agc4rwgd0OUkvxqgT7k="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #8",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Pearl",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e6g3jf2s",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "HcI40TkKOhVoIO7b1Ar3kvfaNYa1Zi3ZHMcxzoyl/38="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #9",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Quartz",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1whugvc9ngap4u658sp5chlexn0gm3z5xa4jvgp",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "NBAtXewdRDTKQq5Yoc2ckitdo3xwa5uC8zj9I47si0U="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #4",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Ruby",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1yz5psrp7pekpukkzq6ywahuzky5d2c74nldfl5",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "gL7d37HWn7jiL/M1NEj5reMqB2uYKbFo7Makg7ghnHM="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #7",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Sapphire",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1esasm0wyj9lkchedke42ngqutek6auyj76kwnq",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "nM7tv6YvV9IEK8iklefV8vFDBmGAydAPyrvFXPZ4as8="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #3",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Emerald",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1wtxtlvt6u5cxryp558lrgwre28lspwa44sc3xg",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "oXaM1PJtX4vL/WOW7NoPYZ2vgZxNtUon/FN+yAqkH4Y="
+                  },
+                  "delegator_shares": "100000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Steering Validator for the Reapchain Mainnet - #1",
+                      "identity": "38B48ABC65F87B3A",
+                      "moniker": "Melon",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "1000000000000000000000000",
+                  "operator_address": "reapvaloper1052hvfzm93lmnxtk3g0e8tmj5lma2390nc4947",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "100000000000000000000000",
+                  "type": "steering",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "yKJ5LIkG2DYt4Fv5BhftSAreQyn64WvQVCXj+bwQLQo="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #10",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Onyx",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1gsez6p98e77z2kkg2smlu2px5735vwadfu8lw8",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              },
+              {
+                  "commission": {
+                      "commission_rates": {
+                          "max_change_rate": "0.010000000000000000",
+                          "max_rate": "0.200000000000000000",
+                          "rate": "0.100000000000000000"
+                      },
+                      "update_time":"2023-09-20T01:00:00Z"
+                  },
+                  "consensus_pubkey": {
+                      "@type": "/cosmos.crypto.ed25519.PubKey",
+                      "key": "WmRvGgoCd9vJogdJ4Nb4Wv+aRmLDFXHf9XJsID7CPqg="
+                  },
+                  "delegator_shares": "44000000000000000000000000.000000000000000000",
+                  "description": {
+                      "details": "Standing Validator for the Reapchain Mainnet - #12",
+                      "identity": "6FAC140370673BF1",
+                      "moniker": "Amethyst",
+                      "security_contact": "",
+                      "website":  ""
+                  },
+                  "jailed": false,
+                  "min_self_delegation": "22000000000000000000000000",
+                  "operator_address": "reapvaloper1w4h2ww9agw8kwa3k9a0quwalavtm5kyzqslwst",
+                  "status": "BOND_STATUS_BONDED",
+                  "tokens": "44000000000000000000000000",
+                  "type": "standing",
+                  "unbonding_height": "0",
+                  "unbonding_time": "1970-01-01T00:00:00Z"
+              }
+          ]
+      },
+      "transfer": {
+          "denom_traces": [],
+          "params": {
+              "receive_enabled": true,
+              "send_enabled": true
+          },
+          "port_id": "transfer"
+      },
+      "upgrade": {},
+      "vesting": {}
+  },
+  "chain_id": "reapchain_221230-1",
+  "consensus_params": {
+      "block": {
+          "max_bytes": "22020096",
+          "max_gas": "-1",
+          "time_iota_ms": "1000"
+      },
+      "evidence": {
+          "max_age_duration": "172800000000000",
+          "max_age_num_blocks": "100000",
+          "max_bytes": "1048576"
+      },
+      "validator": {
+          "pub_key_types": [
+              "ed25519"
+          ]
+      },
+      "version": {}
+  },
+  "consensus_round": {
+      "consensus_start_block_height": "1",
+      "period": "12",
+      "qrn_period": "4",
+      "validator_period": "4",
+      "vrf_period": "4"
+  },
+  "genesis_time": "2022-12-30T00:00:00Z",
+  "initial_height": "1",
+  "next_qrns": [
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "NBAtXewdRDTKQq5Yoc2ckitdo3xwa5uC8zj9I47si0U="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "ypq5rzroOaMdck3zMow+gtPXosMSXX58d0kG6Rj4fPU="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "OpgxaUH4lTjJN0ruLJdMhqbkonB6tDSwXdBJgJ7f7LQ="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "yKJ5LIkG2DYt4Fv5BhftSAreQyn64WvQVCXj+bwQLQo="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "KFU/tVUFNpBqiz9Sfo46PNnQpVC+R5pq/uSiNxONJxI="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "nM7tv6YvV9IEK8iklefV8vFDBmGAydAPyrvFXPZ4as8="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "bOs9xnk92O9/hENXSXwnqMonvh2shB2hAa5IT7R8ccs="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "89aPWP/ALsqbCKR+T764uaxBk5D3UPp/7+dgv8DUfK4="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "YjeS4MZv1JO+eaRYYGj4Drx3Agc4rwgd0OUkvxqgT7k="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "WmRvGgoCd9vJogdJ4Nb4Wv+aRmLDFXHf9XJsID7CPqg="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "HcI40TkKOhVoIO7b1Ar3kvfaNYa1Zi3ZHMcxzoyl/38="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "gL7d37HWn7jiL/M1NEj5reMqB2uYKbFo7Makg7ghnHM="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": null,
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oAU3h+bh4n35kbluyZbjqWEqHcnU2cr49aZRDWUj8XE="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": "0"
+      }
+  ],
+  "next_vrfs": [
+      {
+          "height": "1",
+          "proof": null,
+          "seed": null,
+          "steering_member_candidate_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "h7v+7S999KjLpnONBuVEHUF8rl2aeF1/QuIVSstnmQI="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": null,
+          "vrf_index": 0
+      },
+      {
+          "height": "1",
+          "proof": null,
+          "seed": null,
+          "steering_member_candidate_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oXaM1PJtX4vL/WOW7NoPYZ2vgZxNtUon/FN+yAqkH4Y="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": null,
+          "vrf_index": 0
+      }
+  ],
+  "qrns": [
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      },
+      {
+          "height": "1",
+          "qrn_index": 0,
+          "signature": "5XGjQUD4VYxyEK5Ldu0X3GiHKux+1zLyP7WlVCRkep/g3exVbWQB7bUU/O59IaJ+Ambte1J5xCvriFqdK3/2AQ==",
+          "standing_member_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "timestamp": "0001-01-01T00:00:00Z",
+          "value": "8014106781862373350"
+      }
+  ],
+  "standing_members": [
+      {
+          "address": "0E3C680F7ACACE63BB825BB34B889B9FEDD3F71E",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "NBAtXewdRDTKQq5Yoc2ckitdo3xwa5uC8zj9I47si0U="
+          }
+      },
+      {
+          "address": "2770465A62A94EA7456AFB0261DC28EC7B4FC9E9",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "ypq5rzroOaMdck3zMow+gtPXosMSXX58d0kG6Rj4fPU="
+          }
+      },
+      {
+          "address": "30ACD74C9130F1EC065233E456C3FBB691719CDA",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "OpgxaUH4lTjJN0ruLJdMhqbkonB6tDSwXdBJgJ7f7LQ="
+          }
+      },
+      {
+          "address": "4047915AAAEEEE6347D8C22FED6D4B22ACD8718E",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "yKJ5LIkG2DYt4Fv5BhftSAreQyn64WvQVCXj+bwQLQo="
+          }
+      },
+      {
+          "address": "4F8D4D8B35A7457BE2E514E8AEBE76CA06A86607",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "KFU/tVUFNpBqiz9Sfo46PNnQpVC+R5pq/uSiNxONJxI="
+          }
+      },
+      {
+          "address": "76F2B4A1F5FF7B1279E93A5DBFE0A8F4396123F7",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "nM7tv6YvV9IEK8iklefV8vFDBmGAydAPyrvFXPZ4as8="
+          }
+      },
+      {
+          "address": "7AB4CD1384147E6C7F676BEE915B1F52E9D1EF8F",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "bOs9xnk92O9/hENXSXwnqMonvh2shB2hAa5IT7R8ccs="
+          }
+      },
+      {
+          "address": "8AFD03906E1FC7F80489994CE4C38AB12FF9CE08",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "89aPWP/ALsqbCKR+T764uaxBk5D3UPp/7+dgv8DUfK4="
+          }
+      },
+      {
+          "address": "BA4F0D0B8709312C5E0EB6B99F5302F7B6A3139C",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "YjeS4MZv1JO+eaRYYGj4Drx3Agc4rwgd0OUkvxqgT7k="
+          }
+      },
+      {
+          "address": "C4C0491798425E7C406D5F6F8FF7F096EA4DDC49",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          }
+      },
+      {
+          "address": "CCCEFE3B1D4634A09C50771BE725CE7A3C475546",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "WmRvGgoCd9vJogdJ4Nb4Wv+aRmLDFXHf9XJsID7CPqg="
+          }
+      },
+      {
+          "address": "D66E3D15F33AC4F36D500F0D6320256C7F3E4A88",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "HcI40TkKOhVoIO7b1Ar3kvfaNYa1Zi3ZHMcxzoyl/38="
+          }
+      },
+      {
+          "address": "DE621651B098559F833C2D083BE98BDB4B68F8B5",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "gL7d37HWn7jiL/M1NEj5reMqB2uYKbFo7Makg7ghnHM="
+          }
+      },
+      {
+          "address": "E6ABBDC87FF002049521268AA15F9088F8A4BEB8",
+          "name": "",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oAU3h+bh4n35kbluyZbjqWEqHcnU2cr49aZRDWUj8XE="
+          }
+      }
+  ],
+  "steering_member_candidates": [
+      {
+          "address": "9E720CBD6E4BA1ED6E5144FA7202859F55791D40",
+          "name": "",
+          "power": "100000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "h7v+7S999KjLpnONBuVEHUF8rl2aeF1/QuIVSstnmQI="
+          }
+      },
+      {
+          "address": "E938917A4A65EF28E0B8D8F168191DADBF630D98",
+          "name": "",
+          "power": "100000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oXaM1PJtX4vL/WOW7NoPYZ2vgZxNtUon/FN+yAqkH4Y="
+          }
+      }
+  ],
+  "validators": [
+      {
+          "address": "4F8D4D8B35A7457BE2E514E8AEBE76CA06A86607",
+          "name": "Jade",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "KFU/tVUFNpBqiz9Sfo46PNnQpVC+R5pq/uSiNxONJxI="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "C4C0491798425E7C406D5F6F8FF7F096EA4DDC49",
+          "name": "Agate",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "g6vSmeAosDw0kXVhsh6vlI4QRLvHKaWKFaHvhSl2DDQ="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "9E720CBD6E4BA1ED6E5144FA7202859F55791D40",
+          "name": "Persimmon",
+          "power": "100000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "h7v+7S999KjLpnONBuVEHUF8rl2aeF1/QuIVSstnmQI="
+          },
+          "type": "steering"
+      },
+      {
+          "address": "30ACD74C9130F1EC065233E456C3FBB691719CDA",
+          "name": "Tanzanite",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "OpgxaUH4lTjJN0ruLJdMhqbkonB6tDSwXdBJgJ7f7LQ="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "2770465A62A94EA7456AFB0261DC28EC7B4FC9E9",
+          "name": "Turquois",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "ypq5rzroOaMdck3zMow+gtPXosMSXX58d0kG6Rj4fPU="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "E6ABBDC87FF002049521268AA15F9088F8A4BEB8",
+          "name": "Aquamarine",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oAU3h+bh4n35kbluyZbjqWEqHcnU2cr49aZRDWUj8XE="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "8AFD03906E1FC7F80489994CE4C38AB12FF9CE08",
+          "name": "Opal",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "89aPWP/ALsqbCKR+T764uaxBk5D3UPp/7+dgv8DUfK4="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "7AB4CD1384147E6C7F676BEE915B1F52E9D1EF8F",
+          "name": "Diamond",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "bOs9xnk92O9/hENXSXwnqMonvh2shB2hAa5IT7R8ccs="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "BA4F0D0B8709312C5E0EB6B99F5302F7B6A3139C",
+          "name": "Pearl",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "YjeS4MZv1JO+eaRYYGj4Drx3Agc4rwgd0OUkvxqgT7k="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "D66E3D15F33AC4F36D500F0D6320256C7F3E4A88",
+          "name": "Quartz",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "HcI40TkKOhVoIO7b1Ar3kvfaNYa1Zi3ZHMcxzoyl/38="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "0E3C680F7ACACE63BB825BB34B889B9FEDD3F71E",
+          "name": "Ruby",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "NBAtXewdRDTKQq5Yoc2ckitdo3xwa5uC8zj9I47si0U="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "DE621651B098559F833C2D083BE98BDB4B68F8B5",
+          "name": "Sapphire",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "gL7d37HWn7jiL/M1NEj5reMqB2uYKbFo7Makg7ghnHM="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "76F2B4A1F5FF7B1279E93A5DBFE0A8F4396123F7",
+          "name": "Emerald",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "nM7tv6YvV9IEK8iklefV8vFDBmGAydAPyrvFXPZ4as8="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "E938917A4A65EF28E0B8D8F168191DADBF630D98",
+          "name": "Melon",
+          "power": "100000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oXaM1PJtX4vL/WOW7NoPYZ2vgZxNtUon/FN+yAqkH4Y="
+          },
+          "type": "steering"
+      },
+      {
+          "address": "4047915AAAEEEE6347D8C22FED6D4B22ACD8718E",
+          "name": "Onyx",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "yKJ5LIkG2DYt4Fv5BhftSAreQyn64WvQVCXj+bwQLQo="
+          },
+          "type": "standing"
+      },
+      {
+          "address": "CCCEFE3B1D4634A09C50771BE725CE7A3C475546",
+          "name": "Amethyst",
+          "power": "44000000",
+          "pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "WmRvGgoCd9vJogdJ4Nb4Wv+aRmLDFXHf9XJsID7CPqg="
+          },
+          "type": "standing"
+      }
+  ],
+  "vrfs": [
+      {
+          "height": "1",
+          "proof": null,
+          "seed": null,
+          "steering_member_candidate_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "h7v+7S999KjLpnONBuVEHUF8rl2aeF1/QuIVSstnmQI="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": null,
+          "vrf_index": 0
+      },
+      {
+          "height": "1",
+          "proof": null,
+          "seed": null,
+          "steering_member_candidate_pub_key": {
+              "type": "tendermint/PubKeyEd25519",
+              "value": "oXaM1PJtX4vL/WOW7NoPYZ2vgZxNtUon/FN+yAqkH4Y="
+          },
+          "timestamp": "1970-01-01T00:00:00Z",
+          "value": null,
+          "vrf_index": 0
+      }
+  ]
+}

@@ -45,12 +45,12 @@ You need to replace these variables:
 
 1. **$MY\_ADDRESS** - Your address for your account
 2. **$NODE\_IP** - The address for a node in the ReapChain Mainnet. Currently you can use https://rpc.reapchain.org:443
-3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_2022-1"
+3. **$CHAIN\_ID** - The ID for the blockchain. Currently you can use "reapchain\_221230-1"
 
 An example:
 
 ```
-./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node https://rpc.reapchain.org:443 --chain-id reapchain_2022-1
+./reapchaind query bank balances reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 --node https://rpc.reapchain.org:443 --chain-id reapchain_221230-1
 ```
 
 If successful, the return message should look like this:
