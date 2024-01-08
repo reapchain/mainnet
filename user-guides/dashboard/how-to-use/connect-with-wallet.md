@@ -6,7 +6,7 @@ This page describes the process of connecting your dashboard to your wallet.
 
 Use the "Connect Wallet" menu on the top right to connect with Keplr or Metamask.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 

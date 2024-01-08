@@ -8,7 +8,7 @@ This page, acting as a lite explorer, helps you to search and view activity reco
 
 #### Block List
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Block Info
 

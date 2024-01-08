@@ -36,3 +36,7 @@
 ## Developer Guides
 
 * [Private Repository Access](developer-guides/private-repository-access.md)
+
+## BRIDGE
+
+* [Bridge](bridge/bridge.md)

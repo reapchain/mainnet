@@ -25,7 +25,7 @@ Install the Keplr wallet as follows:
 
 1.  Click the "Connect Wallet" button on the top right. And Click the "With Keplr" item.
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 2. Approve the "Add Reapchain Testnet to Keplr"\
    ![](<../../.gitbook/assets/image (4) (1).png>)
 
