@@ -21,7 +21,7 @@ You will need to change the variables in the command:
 An example:
 
 ```
-./reapchiand tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 100reap --node https://rpc.reapchain.org:443/ --chain-id reapchain_221230-1 --fees 0.0003reap --home test_dir --keyring-backend test
+./reapchaind tx bank send  reap1rdwpue39cxt7meyp4t8v3ufs86sqx0hj95j6c5 reap1yklx36ud99wulgd5p805pkg34xsrarwqgtpqx6 100reap --node https://rpc.reapchain.org:443/ --chain-id reapchain_221230-1 --fees 0.0003reap --home test_dir --keyring-backend test
 ```
 
 If successful the return messages should be:
