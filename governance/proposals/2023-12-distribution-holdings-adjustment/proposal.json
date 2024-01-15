@@ -1,0 +1,10 @@
+{
+    "title": "Adjustment of existing Reapchain Foundation holdings and additional distribution",
+    "description": "1. Target Quantities for Adjustment: \nEcosystem Incentives, Company Reserve, Standing Committee Node\n2. Adjustment Scope: \n1) The standing committee node holding, which operates at 2% of the total issuance, will be adjusted to 1%.\n2) The adjusted 1% of standing committee node quantity will be attributed to the foundation, and the attributed quantity will be used for node ecosystem security and operation costs, immediately included in circulating supply upon voting approval.\n3) 50% of the Company Reserve quantity of 200 million will be included in circulating supply for research and development expenses upon voting approval.\n3. Comparison of Adjusted Quantities in the Event of Voting Approval for Current Foundation Holdings\n1) Company Reserve Adjustment\n(Before) 200 millions -> (After) 100 millions\n2) Standing Committee Node\n(Before) 616 millions -> (After) 380 millions",
+    "deposit": [
+      {
+        "denom": "uatom",
+        "amount": "100000000000000000000000"
+      }
+    ]
+  }
