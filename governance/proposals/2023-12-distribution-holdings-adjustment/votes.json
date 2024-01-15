@@ -1,0 +1,162 @@
+{
+    "pagination": {
+      "next_key": null,
+      "total": "0"
+    },
+    "votes": [
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1zytmyzs86vxrmrzpkadt7maqxkjd3ueckzavc6"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1yz5psrp7pekpukkzq6ywahuzky5d2c74328z8c"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1gypevvsjyvrn3z9h0n39l9qhpdcu00nezsyd9h"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1gsez6p98e77z2kkg2smlu2px5735vwadtfd5kt"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1gu5lm3kj9nten6lmw3xjfdvd309el2xt68wc6j"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1ftfyf9tckar7t4mfhjh452s6putyrj6ul4j70l"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1f782nrh8zfhz40ymn9z4pz4qu4x6mxw7uktqdq"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1dh5l8fcc75sfnpgqth4yfj9ywqhlg9e62yczju"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1wtxtlvt6u5cxryp558lrgwre28lspwa4h9j67y"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1w4h2ww9agw8kwa3k9a0quwalavtm5kyzz949g8"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1whugvc9ngap4u658sp5chlexn0gm3z5xlqc8sd"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1eqmazhwyzgpvcaute2nk2sarkx4hpsk9cch2td"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1esasm0wyj9lkchedke42ngqutek6auyju0u9tv"
+      },
+      {
+        "option": "VOTE_OPTION_YES",
+        "options": [
+          {
+            "option": "VOTE_OPTION_YES",
+            "weight": "1.000000000000000000"
+          }
+        ],
+        "proposal_id": "1",
+        "voter": "reap1a5gqxvl3639kzhqgtzs8af72k4e3g7h82ur54l"
+      }
+    ]
+  }
