@@ -18,9 +18,9 @@
     * [Uptime](user-guides/dashboard/pages/uptime.md)
     * [State Sync](user-guides/dashboard/pages/state-sync.md)
   * [How To Use](user-guides/dashboard/how-to-use/README.md)
+    * [Connect With Wallet](user-guides/dashboard/how-to-use/connect-with-wallet.md)
     * [Transfer](user-guides/dashboard/how-to-use/transfer.md)
     * [Staking](user-guides/dashboard/how-to-use/staking.md)
-    * [Connect With Wallet](user-guides/dashboard/how-to-use/connect-with-wallet.md)
 * [Staking & Delegation](user-guides/staking-and-delegation.md)
 
 ## Additional Guides
