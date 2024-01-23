@@ -1,3 +1,12 @@
+# V3 Chain Halted 
+
+## Archive Node Data
+
+- [Data File](https://s3.ap-northeast-2.amazonaws.com/public.access.snapshots/v3.mainnet.backup/1912808_archive_node.tar.gz)
+
+- [Genesis File](https://s3.ap-northeast-2.amazonaws.com/public.access.snapshots/v3.mainnet.backup/MainNetGenesis.Jan.22.1912808.json)
+
+
 # V3 MainNet Release Notes 
 
 ## [v0.8.9-rc5.2 - 27/12/2023](https://github.com/reapchain/reapchain/releases/tag/v0.8.9-rc5.2)
