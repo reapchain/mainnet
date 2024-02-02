@@ -4,7 +4,7 @@
 
 - [Data File](https://s3.ap-northeast-2.amazonaws.com/public.access.snapshots/v2.mainnet.backup/1491801_archive_node.tar.gz)
 
-- [Exported Genesis File](https://github.com/reapchain/mainnet/blob/main/past-genesis/reapchain.v2.1491801.json)
+- [Exported Genesis File](https://github.com/reapchain/mainnet/blob/main/past-genesis/genesis.reapchain-v2.0-1491801.json)
 
 
 
