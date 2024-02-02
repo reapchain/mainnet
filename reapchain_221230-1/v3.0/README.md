@@ -4,7 +4,7 @@
 
 - [Data File](https://s3.ap-northeast-2.amazonaws.com/public.access.snapshots/v3.mainnet.backup/1912808_archive_node.tar.gz)
 
-- [Exported Genesis File](https://github.com/reapchain/mainnet/blob/main/past-genesis/reapchain.v3.1912808.json)
+- [Exported Genesis File](https://github.com/reapchain/mainnet/blob/main/past-genesis/genesis.reapchain-v3.0-1912808.json)
 
 
 # V3 MainNet Release Notes 
